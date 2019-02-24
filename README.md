@@ -1,2 +1,2 @@
 # animasi_logo
-<img src="./screenshot/animasi_icon.gif" width="200px">
+<img src="./screenshoot/animasi_icon.gif" width="200px">
